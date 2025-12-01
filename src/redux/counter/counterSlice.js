@@ -19,12 +19,12 @@ const initialState = {
       state.value += action.payload
     },
 
-    passingMarks: (state) => {
+    setPassingMarks: (state) => {
       return state.passingMarks
     }
   },
 })
 
-export const { increment, decrement, incrementByAmount, dispatch, passingMarks} = counterSlice.actions
+export const { increment, decrement, incrementByAmount, dispatch, setPassingMarks} = counterSlice.actions
 
 export default counterSlice.reducer

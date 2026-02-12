@@ -164,8 +164,68 @@ const marks = [
             maths: 81,
             socalScience: 75
         }
-    }
+    },
 
+
+    {
+        presonalInfo: {
+            rollNo: "12",
+            name: "Priya Kumari",
+            class: 2
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 63,
+            science: 74,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+    {
+        presonalInfo: {
+            rollNo: "13",
+            name: "Rohit Mishra",
+            class: 2
+        },
+        studentMarks: {
+            hindi: 69,
+            english: 53,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+    {
+        presonalInfo: {
+            rollNo: "14",
+            name: "Rahil Mishra",
+            class: 2
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+    {
+        presonalInfo: {
+            rollNo: "15",
+            name: "Priya pathidar",
+            class: 2
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    }
 ]
 
 export {marks}

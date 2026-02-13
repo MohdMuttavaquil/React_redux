@@ -225,6 +225,21 @@ const marks = [
             maths: 81,
             socalScience: 75
         }
+    },
+
+    {
+        presonalInfo: {
+            rollNo: "15",
+            name: "Raman pathidar",
+            class: 2
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
     }
 ]
 

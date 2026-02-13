@@ -240,6 +240,70 @@ const marks = [
             maths: 81,
             socalScience: 75
         }
+    },
+
+      {
+        presonalInfo: {
+            rollNo: "16",
+            name: "Rahul Kumar",
+            class: 3
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 65,
+            maths: 70,
+            socalScience: 62
+        }
+    },
+
+      {
+        presonalInfo: {
+            rollNo: "17",
+            name: "Rahul Sing",
+            class: 3
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
+    },
+
+      {
+        presonalInfo: {
+            rollNo: "18",
+            name: "Mohak Kumar",
+            class: 3
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
+    },
+
+      {
+        presonalInfo: {
+            rollNo: "1",
+            name: "Pardip Kumar",
+            class: 3
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
     }
 ]
 

@@ -292,8 +292,25 @@ const marks = [
 
       {
         presonalInfo: {
-            rollNo: "1",
+            rollNo: "19",
             name: "Pardip Kumar",
+            class: 3
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
+    },
+
+    
+      {
+        presonalInfo: {
+            rollNo: "20",
+            name: "Rohit Kumar",
             class: 3
         },
 

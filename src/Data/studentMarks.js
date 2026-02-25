@@ -226,3 +226,94 @@ const marks = [
             socalScience: 75
         }
     },
+
+     {
+        presonalInfo: {
+            rollNo: "16",
+            name: "Priya pathidar",
+            class: 3
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "17",
+            name: "Priya pathidar",
+            class: 3
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "18",
+            name: "Priya pathidar",
+            class: 3
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "19",
+            name: "Priya pathidar",
+            class: 3
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "20",
+            name: "Priya pathidar",
+            class: 3
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "21",
+            name: "Priya pathidar",
+            class: 3
+        },
+        studentMarks: {
+            hindi: 79,
+            english: 73,
+            science: 76,
+            maths: 81,
+            socalScience: 75
+        }
+    },
+]

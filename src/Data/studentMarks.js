@@ -353,7 +353,56 @@ const marks = [
             maths: 70,
             socalScience: 69
         }
-    }
-]
+    },
 
+     {
+        presonalInfo: {
+            rollNo: "23",
+            name: "Mohak Gupta",
+            class: 4
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
+  
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "24",
+            name: "Mohak Gupta",
+            class: 4
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
+    },
+
+     {
+        presonalInfo: {
+            rollNo: "25",
+            name: "Mohak Gupta",
+            class: 4
+        },
+
+        studentMarks: {
+            hindi: 56,
+            english: 65,
+            science: 64,
+            maths: 70,
+            socalScience: 69
+        }
+    }
+
+]
 export {marks}

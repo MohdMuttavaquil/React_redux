@@ -226,6 +226,3 @@ const marks = [
             socalScience: 75
         }
     },
-]
-
-export {marks}
